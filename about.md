@@ -32,8 +32,8 @@ Jesse resides in Washington D.C. with his wife and three kids.
 
 
 <b>projects</b>
-- [Played key role] <a href="https://www.edisonpartners.com/blog/execvision-investment">ExecVision to close $5.4M growth round led by Edison Partners</a>
+- Played key role: <a href="https://www.edisonpartners.com/blog/execvision-investment">ExecVision to close $5.4M growth round led by Edison Partners</a>
 
-- [Played key role] <a href="https://www.actionnewsnow.com/content/news/Mindbox-Studios-wins--483530871.html">Mindbox Studios expansion into Redding, CA</a>
+- Played key role: <a href="https://www.actionnewsnow.com/content/news/Mindbox-Studios-wins--483530871.html">Mindbox Studios expansion into Redding, CA</a>
 
-- [Marketing lead] <a href="https://github.com/eclipse/che">Open source Eclipse Che reaches +5,500 GitHub stars</a>
+- Marketing lead: <a href="https://github.com/eclipse/che">Open source Eclipse Che reaches +5,500 GitHub stars</a>
