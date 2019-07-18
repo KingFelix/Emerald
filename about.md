@@ -29,6 +29,8 @@ Jesse resides in Washington D.C. with his wife and three kids.
 
 - Lifecycle marketing lead, Red Hat Developer <a href="https://techcrunch.com/2019/07/09/ibm-closes-red-hat-acquisition-for-34-billion/">(Acq. IBM)</a>
 
+- Invitation only member of the <a href="https://www.forbes.com/sites/forbescommunicationscouncil/people/jessewilliams1/#e9fa31b51dc2">Forbes Communication Council</a>
+
 
 <h4>projects</h4>
 - Played key role: <a href="https://www.edisonpartners.com/blog/execvision-investment">ExecVision to close $5.4M growth round led by Edison Partners</a>
@@ -36,3 +38,5 @@ Jesse resides in Washington D.C. with his wife and three kids.
 - Played key role: <a href="https://www.actionnewsnow.com/content/news/Mindbox-Studios-wins--483530871.html">Mindbox Studios expansion into Redding, CA</a>
 
 - Marketing lead: <a href="https://github.com/eclipse/che">Open source Eclipse Che reaches +5,500 GitHub stars</a>
+
+- Consulting: DroneDeploy, SkyCatch, HelioCampus, Spiritus Solutions
