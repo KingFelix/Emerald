@@ -31,8 +31,15 @@ h2 {
 	font-family: 'Muli', sans-serif;
 }
 
-h3, h4, h5, h6 {
+h3 {
 	font-size: 1.125em; /* 18px/16px */
+	line-height: 1.3334em; /* 24px/18px */
+	padding: 0.66667em 0; /* 12px/18px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
+	font-family: 'Muli', sans-serif;
+}
+
+h4, h5, h6 {
+	font-size: 1em; 
 	line-height: 1.3334em; /* 24px/18px */
 	padding: 0.66667em 0; /* 12px/18px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
 	font-family: 'Muli', sans-serif;
@@ -78,8 +85,15 @@ h2 {
 	font-family: 'Muli', sans-serif;
 }
 
-h3, h4, h5, h6 {
+h3 {
 	font-size: 1.3334em; /* 24px/18px */
+	line-height: 1em; /* 24px/24px */
+	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
+	font-family: 'Muli', sans-serif;
+}
+
+h4, h5, h6 {
+	font-size: 1em; /* 24px/18px */
 	line-height: 1em; /* 24px/24px */
 	padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
 	font-family: 'Muli', sans-serif;
