@@ -10,7 +10,7 @@ html, body {
 #nav, #nav-left { 
   a {
     display: block;
-    color: $nav-background;
+    color: $background-color;
     padding: 0.33334em 0;
     font-size: 1.5em;
     font-weight: 400;
@@ -18,7 +18,7 @@ html, body {
       font-size: 1em;
     }
     &:hover {
-      background-color: lighten($main-color, 10%);
+      background-color: lighten($main-color, 5%);
     }
   }
   span {
