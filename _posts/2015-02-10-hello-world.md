@@ -1,4 +1,19 @@
 ---
-title: Hello World
+title: "hello world. a much needed update"
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam quasi maxime quas repudiandae nam id temporibus, at et non officiis consectetur voluptate deserunt officia minima placeat tempore illum asperiores quo assumenda praesentium? Facilis libero error ratione doloribus debitis delectus asperiores minima ab velit quam. Natus ea, vero totam recusandae autem, corporis minima, animi eos perferendis omnis ut asperiores magni tempore. Repellendus aliquam saepe perspiciatis laborum, excepturi sit libero dignissimos debitis eaque itaque quos, accusantium sed amet tempora temporibus perferendis possimus, quisquam minus fuga! Laudantium, tenetur, consectetur! Quas itaque hic consequatur accusamus consectetur, quia odio eos amet quasi pariatur! Ratione, similique.
+Excuse my cliché title, it's been a while since I've published anything, and to be honest, it has lost its hard-won sense of familiarity. Publishing my personal and professional thoughts is an activity that I enjoy maybe even love. 
+
+Forging a new path. 
+I cannot emphasize enough the impact that publishing content online has had on my career, but it's been all over the place. Web trends constantly come and go, if you catch them quick enough, you can leverage the wave of attention. But like everything, those waves die. This is why I'm moving away from publishing on Medium. Medium is a great platform, that has developed a diverse culture consisting of many different thoughts, topics, writers, and beliefs. Unfortunately, for me, it meant trying to focus on too many topics. 
+
+Focusing in.
+I've titled this blog 'Personal and professional.' 
+
+Moving forward, I'll be sticking to two topics; Personal thoughts and professional thoughts, undoubtedly interlaced and entangled. Professionally, I'll be focusing in on marketing, with an emphasis on developer and open source audiences. Personally, I will be documenting my musings as a husband, father of three, and my career development. 
+
+In closing.
+As always, the opinions that you will find in my posts are my own, they are taken directly from my current views on life, which I expect will change as I grow and experience more. Life is a journey, you can follow mine or ignore it ... trolling is unappreciated.
+
+All is grace,
+Jesse
+
