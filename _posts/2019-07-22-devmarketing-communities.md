@@ -7,7 +7,7 @@ One of the main reasons I've been inspired to publish again is the lack of quali
 
 Please note, I'm not sharing this information so that you can SPAM developers audiences more efficiently. When it comes to developer communities, your impact is predicated on the value you can provide.
 
-A quick Google will reveal the obvious candidates for this post, Reddit, Hacker News, StackOverflow, and GitHub. Those communities are great, and if you can figure out a strategy to drive value and interactions in those communities, you are on your way. In this post, we are going to talk about a few that you probably don't know of. 
+A quick Google will reveal the obvious candidates for this post, Reddit, Hacker News, Stack Overflow, and GitHub. Those communities are great, and if you can figure out a strategy to drive value and interactions on them, you are on your way. In this post, we are going to talk about a few that you probably don't know of. 
 
 <h3>1. Lobste.rs</h3> 
 <a href="https://lobste.rs/">Lobsters</a> is a Hacker News style forum with a few key differences that make it a unique place. First, Lobsters is an invitation-only community. You have to know someone to get an invite or ask for one on their IRC. Second, Lobsters has a 'hat' feature that lets members verify their profiles to earn a hat. Hats indicate a level of authority on a topic which allows a member to speak on behalf of a project, organization, or company.
