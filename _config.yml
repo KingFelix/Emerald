@@ -1,11 +1,11 @@
 # Site settings
 title: Personal and professional | by Jesse Williams
 description: "A simple blog comprised of complex ideas"
-url: "https://jwilliamsr.github.io/new-blog/"
+url: "http://www.jesse-williams.com"
 author:
   name: "Jesse Williams"
   email: "jessewilliams.r@gmail.com"
-  url: "https://jwilliamsr.github.io/new-blog/"
+  url: "http://www.jesse-williams.com"
 
 # Build settings
 baseurl: /new-blog # Change this to your relative path (ex: /blog/), or leave just a /
