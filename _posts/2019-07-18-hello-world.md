@@ -9,7 +9,7 @@ Excuse my cliché title, it's been a while since I've published anything, and to
 I cannot emphasize enough the impact that publishing content online has had on my career, but it's been all over the place. Web trends constantly come and go, if you catch them quick enough, you can leverage the wave of attention. But like everything, those waves die. This is why I'm moving away from publishing on Medium. Medium is a great platform, that has developed a diverse culture consisting of many different thoughts, topics, writers, and beliefs. Unfortunately, for me, it meant trying to focus on too many topics. 
 
 <h3>Focusing in.</h3>
-I've titled this blog 'Personal and professional.' 
+I've titled this blog 'A developer marketing blog.' 
 
 Moving forward, I'll be sticking to two topics; Personal thoughts and professional thoughts, undoubtedly interlaced and entangled. Professionally, I'll be focusing in on marketing, with an emphasis on developer and open source audiences. Personally, I will be documenting my musings as a husband, father of three, and my career development. 
 
