@@ -2,6 +2,7 @@
 date: 2019-07-22
 author: jw
 title: "developer communities. a deep-dive"
+description: "An overview of developer communities for developer marketing professionals"
 ---
 One of the main reasons I’ve been inspired to publish again is the lack of quality developer-focused marketing content. Developer marketing is my bread and butter and when, or maybe I should say if you figure it out, it’s an incredibly enjoyable audience to interact with. That being said, it’s an uphill battle. Developer audiences require you to have a deep understanding of the technologies that matter to them, emerging trends, communication styles, niche interests, and of course the communities where they spend their time. In this post, I want to introduce you to the less-known online developer communities.
 

@@ -2,6 +2,7 @@
 date: 2019-07-18
 author: jw
 title: "hello world. a much needed update"
+description: "It's been a long time since I updated my blog, here's what I've been up to"
 ---
 Excuse my cliché title, it's been a while since I've published anything, and to be honest, it has lost its hard-won sense of familiarity. Publishing my personal and professional thoughts is an activity that I enjoy maybe even love. 
 
