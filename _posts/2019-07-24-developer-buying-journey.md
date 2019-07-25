@@ -1,7 +1,7 @@
 ---
 date: 2019-07-24
 author: jw
-title: "insights into the developer buying journey"
+title: "insights. the developer buying journey"
 ---
 Developer as a marketing persona has been around for a long time. If you Google developer marketing, you can find content targeting that niche published almost 10 years ago. So you have to ask, why is it just now becoming a hot topic for enterprise companies? I believe that there are three main drivers of this trend. First, increased competition around the products developers use has exploded. Second, as Horowitz would say, "Technology is eating the world." Almost every company employs or contracts out to developers in one way or another. Finally, our visibility into funnel analytics has revealed a cohort of users who don't follow the expected buyer journey, yet play an important role in software sale.
 
