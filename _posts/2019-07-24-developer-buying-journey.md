@@ -44,4 +44,4 @@ Accomplishing this easier said than done. Developers will generally choose a pro
 
 It's the job of the developer marketer to make sure that these questions are being answered visibly. This looks like including the upstream project name and branding in your marketing material, showing up to support the upstream community at events, participating in their community meetings, and amplifying the projects marketing efforts. 
 
-<em>I hope this post was valuable, and am considering adding a second part to it. <a href="https://twitter.com/j_r_wi11iams/status/1154467580368830466">I consider shares, likes, and RTs votes for part 2.</a></em>
+<em>I hope this post was valuable. I am considering adding a second part to it. <a href="https://twitter.com/j_r_wi11iams/status/1154467580368830466">I consider shares, likes, and RTs votes for part 2.</a></em>
