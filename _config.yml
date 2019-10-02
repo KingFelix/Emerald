@@ -29,7 +29,7 @@ gems:
   - jekyll-paginate
 
 # Custom variables
-version: "1.1.0"
+version: "1.1.2"
 
 # Options
 custom_header: false
