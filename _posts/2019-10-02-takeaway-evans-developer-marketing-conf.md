@@ -7,12 +7,7 @@ description: "I recently had the honor of speaking and attending the Evans Data 
 ![Emerald](img/davis-site-art.png "Art by Davis Camp DeLisi")
 <span class="heroart">A piece my wife and I recently purchased by <a href="https://www.instagram.com/davis_delisi/">Davis Camp DeLisi</a></span>
 
----
-excerpt_separator: <!--more-->
----
 Last week I had the opportunity to attend and speak at the Evans Data Developer Marketing Summit in San Jose, CA. It was a very insightful experience where I was able to collaborate with and learn from the individuals leading and growing developer marketing activities at Microsoft, IBM, Square, DocuSign, Bluetooth, TomTom, GM, and many more. Here are some of the data developer marketing data points that I found interesting. 
-
-<!--more-->
 
 <em>P.S. I had several requests to turn my talk into a blog post. It should be ready later this week, so keep an eye out.</em>
 
