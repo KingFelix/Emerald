@@ -5,7 +5,7 @@ title: "developer insights. takeaways from the Evans Data dev marketing summit"
 description: "I recently had the honor of speaking and attending the Evans Data Developer Marketing Summit, here are some takeaways"
 ---
 
-Last week I had the opportunity to attend and speak at the Evans Data Developer Marketing Summit in San Jose, CA. It was a very insightful experience where I was able to collaborate with and learn from the individuals leading and growing developer marketing activities at Microsoft, IBM, Square, DocuSign, Bluetooth, TomTom, GM, and many more. Here are some of the data developer marketing data points that I found really interesting. 
+Last week I had the opportunity to attend and speak at the Evans Data Developer Marketing Summit in San Jose, CA. It was a very insightful experience where I was able to collaborate with and learn from the individuals leading and growing developer marketing activities at Microsoft, IBM, Square, DocuSign, Bluetooth, TomTom, GM, and many more. Here are some of the data developer marketing data points that I found interesting. 
 
 <em>P.S. I had several requests to turn my talk into a blog post. It should be ready later this week, so keep an eye out.</em>
 
@@ -18,16 +18,16 @@ In addition to sharing these data points, I've added some commentary and thought
 
 <strong>- Top used operating system is Windows 10</strong>
 
-<strong>- 100% of surveyed Developers use more than one language over 50% of the time</strong>
-[comment] This is an important data point that many programs overlook. It's easy to get stuck in a content rut, where you only create new content for a specific language, not realizing that the developers using your product have additional dependancies, even if it's as simple as something like SQL. 
+<strong>- 100% of surveyed developers use more than one language over 50% of the time</strong>
+[comment] This is an important data point that many programs overlook. It's easy to get stuck in a content rut, where you only create new content for a specific language, not realizing that the developers using your product have additional dependencies, even if it's as simple as something like SQL. 
 
 <strong>- 66% use scripted languages at least 50% of the time</strong>
 [comment] With the rise of node.js, react.js, etc. it is not surprising that developers are spending a ton of time using scripted languages. However, when I first saw this data point, I was caught off-guard.
 
 <strong>- Python is the fastest growing language</strong>
 
-<strong>- 60% of developers are primary decision makers on a dev tool or technology sale</strong>
-[comment] This is a bit higher than I would have expected. In fact, I'm still not sure if I'm convinced that 60% are the primary decision maker. 
+<strong>- 60% of developers are primary decision-makers on a dev tool or technology sale</strong>
+[comment] This is a bit higher than I would have expected. I'm still not sure if I'm convinced that 60% are primary decision-makers. 
 
 <strong>- 25% of developers are on a team that makes decisions together</strong>
 
@@ -49,13 +49,13 @@ In addition to sharing these data points, I've added some commentary and thought
 <strong>- 60% of developers will not click on a tracking URL</strong>
 
 <strong>- Search ads are the most effective way to get in front of them</strong>
-[comment] This was a big surprise to me, I didn't actually belive it until we had a Q/A session with a developer focus group. One of the attendees brought it up and they agreed that search ads are valuable when they are looking for a new solution. The rational was interesting as well, they believed that companies that are paying to have their solution appear infront of them have resources, which is a good indicator that they will be around for a long time. 
+[comment] This was a big surprise to me, I didn't believe it until we had a Q/A session with a developer focus group. One of the attendees brought it up and they agreed that search ads are valuable when they are looking for a new solution. The rational was interesting as well, they believed that companies that are paying to have their solution appear in front of them have resources, which is a good indicator that they will be around for a long time. 
 
 <em>Side Note: During our Q/A there were several instances where the developer focus group expressed distrust in 'startup' or new solutions.</em>
 
 <strong>- Newsletters are the most appreciated form of marketing</strong>
 
-<strong>- Vendors are trusted as most credible source of info on new technologies</strong>
+<strong>- Vendors are trusted as the most credible source of info on new technologies</strong>
 
 <strong>- 60% off technical audience members influence purchasing decisions</strong>
 
@@ -66,4 +66,3 @@ In addition to sharing these data points, I've added some commentary and thought
 <strong>- 35% of developers find documentation a barrier to product usage</strong>
 
 <strong>- 34.5% of developers will reject purchasing decisions that have been made for them by their organizations</strong>
-
