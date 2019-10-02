@@ -19,14 +19,17 @@ In addition to sharing these data points, I've added some commentary and thought
 <strong>- Top used operating system is Windows 10</strong>
 
 <strong>- 100% of surveyed developers use more than one language over 50% of the time</strong>
+
 [comment] This is an important data point that many programs overlook. It's easy to get stuck in a content rut, where you only create new content for a specific language, not realizing that the developers using your product have additional dependencies, even if it's as simple as something like SQL. 
 
 <strong>- 66% use scripted languages at least 50% of the time</strong>
+
 [comment] With the rise of node.js, react.js, etc. it is not surprising that developers are spending a ton of time using scripted languages. However, when I first saw this data point, I was caught off-guard.
 
 <strong>- Python is the fastest growing language</strong>
 
 <strong>- 60% of developers are primary decision-makers on a dev tool or technology sale</strong>
+
 [comment] This is a bit higher than I would have expected. I'm still not sure if I'm convinced that 60% are primary decision-makers. 
 
 <strong>- 25% of developers are on a team that makes decisions together</strong>
@@ -36,6 +39,7 @@ In addition to sharing these data points, I've added some commentary and thought
 <strong>- 27% are looking for ML and AI content</strong>
 
 <strong>- 80% of developers use non-IT sanctioned tools</strong>
+
 [comment] Not a surprise, unless you are in IT. 
 
 <strong>- Webinars are the biggest driver of final purchasing decisions</strong>
@@ -49,6 +53,7 @@ In addition to sharing these data points, I've added some commentary and thought
 <strong>- 60% of developers will not click on a tracking URL</strong>
 
 <strong>- Search ads are the most effective way to get in front of them</strong>
+
 [comment] This was a big surprise to me, I didn't believe it until we had a Q/A session with a developer focus group. One of the attendees brought it up and they agreed that search ads are valuable when they are looking for a new solution. The rational was interesting as well, they believed that companies that are paying to have their solution appear in front of them have resources, which is a good indicator that they will be around for a long time. 
 
 <em>Side Note: During our Q/A there were several instances where the developer focus group expressed distrust in 'startup' or new solutions.</em>
