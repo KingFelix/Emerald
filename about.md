@@ -12,7 +12,13 @@ Jesse
 
 ![Emerald](img/family.png "Family")
 
-### professional bio
+## what's with the random art
+I'm sure that after looking around my site, many of you are wondering "What's with the random art?"
+
+It's difficult to find good art these days. Maybe it's because the appreciation for art is dieing or maybe it's because we're constantly bombarded with cheap knock-offs? Either way, I love art and hope that my appreciation for it gets transfered to those who visit my site. I've included links to learn more about the artists under each image. 
+
+
+## professional bio
 Jesse Williams has spent his career leading marketing and demand strategies for developer-focused technologies and startups. Some have been extremely successful, some have achieved moderate success, and others have served as a valuable learning experience. 
 
 Over the past eight years, he has focused on understanding how to grow and interact with technical audiences to develop highly engaged communities around niche products.
