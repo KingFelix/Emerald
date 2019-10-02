@@ -4,6 +4,8 @@ author: jw
 title: "opensource and programs. the developer buying journey"
 description: "Part 2 of the developer buying journey. How open source and developer programs impact the developer buying journey"
 ---
+![Emerald](img/picasso-site-art.png "Art by Davis Camp DeLisi")
+<span class="heroart">A line drawing by Pablo Picasso | <a href="../about#whats-with-the-random-art">What's with the random art?</a>
 
 This is the second part of my previous post <a href="https://www.jesse-williams.com/developer-buying-journey">insights. the developer buying journey</a>, where I walked readers through how the developer persona interacts with the buying process and their role in a sale. I briefly touched on how open source projects play into the buying process, but would like to spend a bit more time on it in this post. In addition to covering open source, I'll spend some time on the value of creating a developer program to build community and affinity around the projects that you contribute to. 
 
