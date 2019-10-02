@@ -15,7 +15,7 @@ Jesse
 ## what's with the random art
 I'm sure that after looking around my site, many of you are wondering "What's with the random art?"
 
-It's difficult to find good art these days. Maybe it's because the appreciation for art is dieing or maybe it's because we're constantly bombarded with cheap knock-offs? Either way, I love art and hope that my appreciation for it gets transfered to those who visit my site. I've included links to learn more about the artists under each image. 
+It's difficult to find good art these days. Maybe it's because the appreciation for art is dieing or maybe it's because we're constantly bombarded with cheap knock-offs? Either way, I love art and hope that my appreciation for it gets transfered to those who visit my site. I've included links to learn more about the artists under each image. Sorry in advance for all the Picasso, I've felt a connection to his work and hope to own a few original pieces in the future.  
 
 
 ## professional bio
