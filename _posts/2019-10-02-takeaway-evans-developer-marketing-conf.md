@@ -1,7 +1,7 @@
 ---
 date: 2019-10-02
 author: jw
-title: "developer insights. takeaways from the Evans Data dev marketing summit"
+title: "insights. takeaways from the Evans Data Dev Marketing Summit"
 description: "I recently had the honor of speaking and attending the Evans Data Developer Marketing Summit, here are some takeaways"
 ---
 
