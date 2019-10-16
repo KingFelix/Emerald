@@ -1,7 +1,7 @@
 ---
 date: 2019-08-01
 author: jw
-title: "opensource and programs. the developer buying journey"
+title: "open source. the developer buying journey"
 description: "Part 2 of the developer buying journey. How open source and developer programs impact the developer buying journey"
 ---
 ![Emerald](img/picasso-site-art.png "Art by Davis Camp DeLisi")
