@@ -1,6 +1,7 @@
 ---
 layout: page
 title: about me
+description: "Jesse Williams is a marketing professional who specalizes in developer marketing tactics, open source community building, and bringing developer-facing technologies to market."
 ---
 ## about me
 Welcome, My name is Jesse Williams.
