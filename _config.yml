@@ -1,11 +1,11 @@
 # Site settings
 title: A developer marketing blog by Jesse Williams
 description: "A simple blog focused on the complexity of developer marketing"
-url: "http://www.jesse-williams.com"
+url: "http://jesse-williams.com"
 author:
   name: "Jesse Williams"
   email: "jessewilliams.r@gmail.com"
-  url: "https://www.jesse-williams.com"
+  url: "https://jesse-williams.com"
 
 # Build settings
 markdown: kramdown
