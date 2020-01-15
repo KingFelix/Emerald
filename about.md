@@ -19,7 +19,7 @@ Jesse Williams has spent his career leading marketing and demand strategies for 
 
 Over the past eight years, he has focused on understanding how to grow and interact with technical audiences to develop highly engaged communities around niche products.
 
-Jesse currently leads the global public sector developer marketing efforts for AWS (Amazon Web Services)s. Jesse got his start in developer marketing while leading the marketing efforts for Codenvy and open source Eclipse Che.
+Jesse currently leads the global public sector developer marketing efforts for AWS (Amazon Web Services). Prior to AWS, Jesse lead the lifecycle marketing team for Red Hat Developer, a community of over 1.5 million independent software developers. During his tenure at Red Hat Developer, his strategies drove a 490% increase in developer engagement, 70% increase in active users, and 15% increase in YOY program registration. Jesse got his start in developer marketing while leading the marketing efforts for Codenvy and open source Eclipse Che.
 
 Jesse resides in Washington D.C. with his wife and three kids. 
 
@@ -28,7 +28,7 @@ Jesse resides in Washington D.C. with his wife and three kids.
 - Founding member of YouCaring <a href="https://techcrunch.com/2018/04/03/gofundme-acquires-youcaring-as-charitable-crowdfunding-continues-to-consolidate/">(Acq. GoFundMe)</a>
 
 - Head of demand gen and marketing ops for Codenvy <a href="https://techcrunch.com/2017/05/25/red-hat-to-acquire-codenvy-as-part-of-its-growing-container-strategy/">(Acq. Red Hat)</a>
-
+s
 - Lifecycle marketing lead, Red Hat Developer <a href="https://techcrunch.com/2019/07/09/ibm-closes-red-hat-acquisition-for-34-billion/">(Acq. IBM)</a>
 
 - Invitation only member of the <a href="https://www.forbes.com/sites/forbescommunicationscouncil/people/jessewilliams1/#e9fa31b51dc2">Forbes Communication Council</a>
