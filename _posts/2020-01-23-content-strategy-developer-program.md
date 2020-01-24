@@ -4,6 +4,8 @@ author: jw
 title: "developer content. strategies to build a developer program"
 description: "Three content strategies that can be used to drive engagement with developer programs."
 ---
+![Emerald](img/banksy-site-art.png "Art by Banksy")
+<span class="heroart">A few pieces from one of my favorite pop artists, <a href="https://www.banksy.co.uk/">Banksy</a> | <a href="../about#whats-with-the-random-art">What's with the random art?</a></span>
 
 One of the core tenants of developer marketing is the understanding that developers as an audience are avid consumers of content. If you look at the most popular developer programs, you will notice that many of them achieve a publishing velocity that is unheard of in other marketing organizations. This is because content plays a major part in engagement strategies and ranges from product marketing content to educational content, and even documentation. 
 
