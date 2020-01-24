@@ -24,8 +24,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="149" />
-    <option name="y" value="23" />
+    <option name="x" value="394" />
+    <option name="y" value="-1057" />
     <option name="width" value="1268" />
     <option name="height" value="842" />
   </component>
@@ -50,6 +50,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579896821939" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
