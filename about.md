@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about me
-description: "A simple blog focused on the complexity of developer marketing by Jesse Williams, a marketing professional who specalizes in developer marketing tactics, open source community building, and bringing developer-facing technologies to market."
+description: "Jesse Williams, specializes in developer marketing and relations, open source community building, and bringing developer-facing technologies to market."
 ---
 ## about me
 Welcome, My name is Jesse Williams.
