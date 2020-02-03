@@ -24,12 +24,17 @@ defaults:
     values:
       layout: "post"
 
-# Plugins
-gems:
-  - jekyll-paginate
+
 
 # Custom variables
 version: "1.1.2"
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap  
 
 # Options
 custom_header: false
