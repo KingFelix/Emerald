@@ -1,7 +1,7 @@
 ---
 date: 2019-10-02
 author: jw
-title: "insights. takeaways from the Evans Data Dev Marketing Summit"
+title: "Key insights and takeaways from the Evans Data Dev Marketing Summit"
 description: "I recently had the honor of speaking and attending the Evans Data Developer Marketing Summit, here are some takeaways"
 ---
 ![Emerald](img/davis-site-art.png "Art by Davis Camp DeLisi")

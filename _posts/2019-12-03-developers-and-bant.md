@@ -1,8 +1,8 @@
 ---
 date: 2019-12-03
 author: jw
-title: "insights. developers and BANT"
-description: "The role developers play in an enterprise deal is evolving. The enterprise must acknowledge that developers do have a budget, and when it's easy, they will spend it."
+title: "Understanding the developer buying process - Part 3"
+description: "The role developers play in an enterprise deal is evolving. How do developers buy the tools they use and do they have BANT?"
 ---
 ![Emerald](img/picasso_bulls.jpg "Bulls by Pablo Picasso")
 <span class="heroart">Bull by, <a href="https://www.artyfactory.com/art_appreciation/animals_in_art/pablo_picasso.htm">Pablo Picasso</a> | <a href="../about#whats-with-the-random-art">What's with the random art?</a></span>

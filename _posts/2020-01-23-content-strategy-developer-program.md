@@ -1,7 +1,7 @@
 ---
 date: 2020-01-23
 author: jw
-title: "developer content. strategies to build a developer program"
+title: "Content strategies for developer marketing programs"
 description: "Three content strategies that can be used to drive engagement with developer programs."
 ---
 ![Emerald](img/banksy-site-art.png "Art by Banksy")
