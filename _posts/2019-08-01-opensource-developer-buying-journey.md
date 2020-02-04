@@ -35,3 +35,6 @@ Developer programs create a bridge from the upstream project to the enterprise p
 Developer programs are a gray area, they are kinda upstream and kinda downstream. This grayness creates a safe place for developers to explore and learn without being pushed by a sales process. This doesn't mean that developers who are apart of your developer program are leads, but it does give you data on account interests that can be used as a leading indicator of an account entering a buying process. 
 
 <em>I hope this helps to bring the developer buying journey post to a close. Thank you to everyone who took the time to  request a part 2 on slack or twitter.</em>
+
+<em>Love what you read?</em> 
+<a href="https://jesse-williams.com/developers-and-bant">Check out part 3. Understanding the developer buying process.</a>
