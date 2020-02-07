@@ -4,7 +4,7 @@ title: about me
 description: "Jesse Williams, specializes in developer marketing and relations, open source community building, and bringing developer-facing technologies to market."
 ---
 ## about me
-Welcome, My name is Jesse Williams.
+Welcome, my name is Jesse Williams. 
 
 This is where I house my thoughts on topics that interest me including: Startups, Marketing, Technology, Finance & anything else that catches my attention. The opinions that you will find in my posts are my own, they are taken directly from my current views on life, which I expect will change as I grow and experience more. Life is a journey, you can follow mine or ignore it ... trolling is unappreciated.
 
