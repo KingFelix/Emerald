@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d96cb130-99f0-4d6d-a052-f310eb2ecdbe" name="Default Changelist" comment="" />
+    <list default="true" id="d96cb130-99f0-4d6d-a052-f310eb2ecdbe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-18-interpreting-gitlabs-devsecops-report" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-18-interpreting-gitlabs-devsecops-report" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,32 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2020-02-18-interpreting-gitlabs-devsecops-report">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="150">
-                <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2020-01-23-content-strategy-developer-program.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor>
-                <caret selection-end-line="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,8 +38,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1707" />
-    <option name="y" value="-924" />
+    <option name="x" value="20" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -70,7 +48,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -81,17 +59,17 @@
             <path>
               <item name="new-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="new-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582040270486" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582041632727" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -127,10 +105,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1707" y="-924" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="20" y="23" width="1440" height="877" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2360515" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23891273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -284,17 +261,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="92" lean-forward="true" selection-start-line="49" selection-start-column="92" selection-end-line="49" selection-end-column="92" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="90">
             <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="92" lean-forward="true" selection-start-line="49" selection-start-column="92" selection-end-line="49" selection-end-column="92" />
         </state>
       </provider>
     </entry>
@@ -328,8 +305,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2020-02-18-interpreting-gitlabs-devsecops-report">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="30" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="30" />
           </first_editor>
           <second_editor />
         </state>
