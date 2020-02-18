@@ -1,8 +1,8 @@
 ---
 date: 2020-02-18
 author: jw
-title: "What GitLabs DevSecOps report means for developer marketers and relations"
-description: "Recently GitLab released its 2019 GitLab Global Developer DevSecOps Report this is what it means for developer marketing professionals"
+title: "What GitLab's DevSecOps report means for developer marketers and relations"
+description: "Recently GitLab released its 2019 GitLab Global Developer DevSecOps Report, this is what it means for developer marketing professionals"
 ---
 ![Emerald](img/siteart-rothko.png "Art by Mark Rothko")
 <span class="heroart">A few pieces from American abstract artist, <a href="https://www.mark-rothko.org/">Mark Rothko</a> | <a href="../about#whats-with-the-random-art">What's with the random art?</a></span>
