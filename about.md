@@ -6,7 +6,7 @@ description: "Jesse Williams, specializes in developer marketing and relations, 
 ## about me
 Welcome, my name is Jesse Williams. 
 
-This is where I house my thoughts on topics that interest me including: Startups, Marketing, Technology, Finance & anything else that catches my attention. The opinions that you will find in my posts are my own, they are taken directly from my current views on life, which I expect will change as I grow and experience more. Life is a journey, you can follow mine or ignore it ... trolling is unappreciated.
+This is where I house my thoughts on topics that interest me including: Developer Marketing, Open Source, Demand Gen, and anything else that catches my attention. The opinions that you will find in my posts are my own, they do not represent the views of my employer (AWS) and are taken directly from my current views on life, which I expect will change as I grow and experience more. Life is a journey, you can follow mine or ignore it ... trolling is unappreciated.
 
 All is grace,
 Jesse
@@ -15,11 +15,11 @@ Jesse
 
 
 ## professional bio
-Jesse Williams has spent his career leading marketing and demand strategies for developer-focused technologies, projects, and tools. Some have been extremely successful, some have achieved moderate success, and others have served as a valuable learning experience. 
+Jesse Williams has spent his career leading marketing and demand strategies for developer-focused technologies, projects, and tools. 
 
 Over the past eight years, he has focused on understanding how to grow and interact with technical audiences to develop highly engaged communities around developer tools and products.
 
-Jesse currently leads the global public sector developer marketing efforts for AWS (Amazon Web Services). Prior to AWS, Jesse lead the lifecycle marketing team for Red Hat Developer, a community of over 1.5 million independent software developers. During his tenure at Red Hat Developer, his strategies drove a 490% increase in developer engagement, 70% increase in active users, and 15% increase in YOY program registration. Jesse got his start in developer marketing while leading the marketing efforts for Codenvy and open source Eclipse Che.
+Jesse currently leads the global public sector developer marketing efforts for AWS (Amazon Web Services). Prior to AWS, Jesse led the lifecycle marketing team for Red Hat Developer, a community of over 1.5 million independent software developers. During his tenure at Red Hat Developer, his strategies drove a 490% increase in developer engagement, 70% increase in active users, and 15% increase in YOY program registration. Jesse got his start in developer marketing while leading the marketing efforts for Codenvy and open source Eclipse Che.
 
 Jesse resides in Washington D.C. with his wife and three kids. 
 
