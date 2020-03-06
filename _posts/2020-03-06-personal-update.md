@@ -35,4 +35,4 @@ A few people have questioned my reasons for joining AWS, eluding to a workaholic
 
 For those who are wondering what I do at Amazon (Hi mom!), I work for Amazon Web Services (AWS) which is a subsidiary of Amazon and is the most broadly adopted cloud platform. For some, that’s gibberish, in which case, we’re a platform that provides the resources for developers build really cool stuff … like the stuff in the video below.
 
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/L91yri_Vmbs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/L91yri_Vmbs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
