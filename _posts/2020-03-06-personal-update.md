@@ -7,7 +7,7 @@ description: "2019 was a busy year, a ton has happened since my last update post
 ![Emerald](img/siteart-rothko.png "Art by Mark Rothko")
 <span class="heroart">A few pieces from American abstract artist, <a href="https://www.mark-rothko.org/">Mark Rothko</a> | <a href="../about#whats-with-the-random-art">What's with the random art?</a></span>
 
-It’s been eight months since my I re-launched my site. Since then, I’ve been pushing off a personal update post. There have been a ton of new happenings in my world. Needless to say, life is moving fast and though at times it can feel like a whirlwind, I wouldn’t change anything about it. 
+It’s been eight months since my I re-launched my site. Since then, I’ve been pushing off a personal update post. There have been a ton of new happenings in my world. Needless to say, life is moving fast and though at times it can feel like a whirlwind, though I wouldn’t change anything about it. 
 
 When I reflect on my career, I can’t help but be grateful. Unlike many young professionals who spend five to ten years exploring and looking for roles that they love, I managed to find my path easily. Each step seems to build on top of the last in a perfectly orchestrated way, and though some steps can be hard to make, in the end it always works out for good. 
 
@@ -35,4 +35,4 @@ A few people have questioned my reasons for joining AWS, eluding to a workaholic
 
 For those who are wondering what I do at Amazon (Hi mom!), I work for Amazon Web Services (AWS) which is a subsidiary of Amazon and is the most broadly adopted cloud platform. For some, that’s gibberish, in which case, we’re a platform that provides the resources for developers build really cool stuff … like the stuff in the video below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L91yri_Vmbs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/L91yri_Vmbs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
