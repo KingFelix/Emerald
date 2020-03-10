@@ -4,8 +4,8 @@ author: jw
 title: "A personal update"
 description: "2019 was a busy year, a ton has happened since my last update post. Here's what's new."
 ---
-![Emerald](img/siteart-rothko.png "Art by Mark Rothko")
-<span class="heroart">A few pieces from American abstract artist, <a href="https://www.mark-rothko.org/">Mark Rothko</a> | <a href="../about#whats-with-the-random-art">What's with the random art?</a></span>
+![Emerald](img/siteart-ed-moses.png "Art by Mark Rothko")
+<span class="heroart">A few pieces from an icon from the LA art community, <a href="http://www.artnet.com/artists/ed-moses/">Ed Moses</a> | <a href="../about#whats-with-the-random-art">What's with the random art?</a></span>
 
 It’s been eight months since my I re-launched my site. Since then, I’ve been pushing off a personal update post. There have been a ton of new happenings in my world. Needless to say, life is moving fast and though at times it can feel like a whirlwind, though I wouldn’t change anything about it. 
 
