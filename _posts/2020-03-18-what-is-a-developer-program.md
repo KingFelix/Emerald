@@ -4,8 +4,8 @@ author: jw
 title: "What is a developer program and what does it take to build one?"
 description: "Developer programs are a growing part of the enterprise software go-to-market strategy, here's how to build one."
 ---
-![Emerald](img/siteart-ed-moses.png "Art by Mark Rothko")
-<span class="heroart">A few pieces from an icon from the LA art community, <a href="http://www.artnet.com/artists/ed-moses/">Ed Moses</a> | <a href="../about#whats-with-the-random-art">What's with the random art?</a></span>
+![Emerald](img/siteart-joan-miro.png "Art by Joan Miro")
+<span class="heroart">Blue I, II, III, 1961 by <a href="https://www.joan-miro.net/blue.jsp">Joan Miro</a> | <a href="../about#whats-with-the-random-art">What's with the random art?</a></span>
 
 
 If you’ve followed me for any amount of time, you’re well aware of the level of importance that I place on developers. We currently find ourselves in an interesting place where the thought of ‘software eating the world’ is no longer shocking, in fact it’s old news. Software has eaten the world and has taken a foundational seat in ANY and ALL types of business. Though it has taken almost twenty years, developers hold the fates of every major fortune 1000 company, every emerging disrupter, and every struggling turnaround, with the ability to shift entire markets with a few lines of code. For the enterprise, developers are a key person to include in growth strategies, but it’s much easier said than done. Developers require a very different type of marketing that has led to the emergence of marketing activities that focus on technical end-users which we call ‘Developer Programs’. This post will explore developer programs and what makes a good one. 
