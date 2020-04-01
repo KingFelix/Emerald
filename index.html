@@ -10,12 +10,11 @@ layout: default
 
 
 	  <li class="post">
-		  {% if post.categories == "personal" %}style="color: #000000"
+
 	  	<h2>
+			{% if post.categories == "personal" %}style="color: #000000" {% endif %}
 			<a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a>
 		</h2>
-		  {% endif %}
-
 
 	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
 	  	<p>{{ post.description }}</p>
