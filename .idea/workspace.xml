@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d96cb130-99f0-4d6d-a052-f310eb2ecdbe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_includes/collecttags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-07-18-hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-18-hello-world.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-07-22-devmarketing-communities.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-22-devmarketing-communities.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-07-24-developer-buying-journey.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-24-developer-buying-journey.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-08-01-opensource-developer-buying-journey.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-08-01-opensource-developer-buying-journey.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-10-02-takeaway-evans-developer-marketing-conf.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-10-02-takeaway-evans-developer-marketing-conf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-10-16-talk-building-engaged-developer-communities.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-10-16-talk-building-engaged-developer-communities.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-03-developers-and-bant.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-03-developers-and-bant.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-01-23-content-strategy-developer-program.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-01-23-content-strategy-developer-program.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-18-interpreting-gitlabs-devsecops-report.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-18-interpreting-gitlabs-devsecops-report.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-03-06-personal-update.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-06-personal-update.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-03-18-what-is-a-developer-program.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-18-what-is-a-developer-program.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,44 +23,11 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2020-03-18-what-is-a-developer-program.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-10-02-takeaway-evans-developer-marketing-conf.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2020-02-18-interpreting-gitlabs-devsecops-report.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2020-01-23-content-strategy-developer-program.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-12-03-developers-and-bant.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <first_editor relative-caret-position="450">
+                <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
               </first_editor>
               <second_editor />
             </state>
@@ -63,7 +39,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="75">
-                <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+                <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -71,11 +47,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-10-02-takeaway-evans-developer-marketing-conf.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-12-03-developers-and-bant.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="75">
-                <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+                <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -83,11 +59,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-08-01-opensource-developer-buying-journey.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2020-01-23-content-strategy-developer-program.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="75">
-                <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="37" />
+                <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -95,11 +71,32 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-07-24-developer-buying-journey.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2020-02-18-interpreting-gitlabs-devsecops-report.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2020-03-06-personal-update.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="75">
-                <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+                <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2020-03-18-what-is-a-developer-program.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
               </first_editor>
               <second_editor />
             </state>
@@ -111,18 +108,33 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="75">
-                <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+                <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/collecttags.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-07-24-developer-buying-journey.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-08-01-opensource-developer-buying-journey.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -150,18 +162,18 @@
         <option value="$PROJECT_DIR$/thoughts.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/thoughts.html" />
+        <option value="$PROJECT_DIR$/_includes/collecttags.html" />
+        <option value="$PROJECT_DIR$/_posts/2019-10-02-takeaway-evans-developer-marketing-conf.md" />
         <option value="$PROJECT_DIR$/_posts/2019-07-18-hello-world.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-07-22-devmarketing-communities.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-07-24-developer-buying-journey.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-08-01-opensource-developer-buying-journey.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-10-16-talk-building-engaged-developer-communities.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-12-03-developers-and-bant.md" />
+        <option value="$PROJECT_DIR$/_posts/2020-01-23-content-strategy-developer-program.md" />
+        <option value="$PROJECT_DIR$/_posts/2020-02-18-interpreting-gitlabs-devsecops-report.md" />
         <option value="$PROJECT_DIR$/_posts/2020-03-06-personal-update.md" />
         <option value="$PROJECT_DIR$/_posts/2020-03-18-what-is-a-developer-program.md" />
-        <option value="$PROJECT_DIR$/_posts/2020-02-18-interpreting-gitlabs-devsecops-report.md" />
-        <option value="$PROJECT_DIR$/_posts/2020-01-23-content-strategy-developer-program.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-12-03-developers-and-bant.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-10-16-talk-building-engaged-developer-communities.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-10-02-takeaway-evans-developer-marketing-conf.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-08-01-opensource-developer-buying-journey.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-07-24-developer-buying-journey.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-07-22-devmarketing-communities.md" />
-        <option value="$PROJECT_DIR$/_includes/collecttags.html" />
       </list>
     </option>
   </component>
@@ -208,7 +220,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585751386606" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585751731352" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -432,98 +444,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/collecttags.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-07-18-hello-world.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="75">
-            <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-03-06-personal-update.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-03-18-what-is-a-developer-program.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-02-18-interpreting-gitlabs-devsecops-report.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-01-23-content-strategy-developer-program.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-12-03-developers-and-bant.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-10-16-talk-building-engaged-developer-communities.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-10-02-takeaway-evans-developer-marketing-conf.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-08-01-opensource-developer-buying-journey.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="75">
-            <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="37" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-07-24-developer-buying-journey.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>
@@ -533,16 +465,96 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="75">
-            <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/collecttags.html">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-07-24-developer-buying-journey.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-08-01-opensource-developer-buying-journey.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-10-02-takeaway-evans-developer-marketing-conf.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="450">
+            <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-10-16-talk-building-engaged-developer-communities.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-12-03-developers-and-bant.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2020-01-23-content-strategy-developer-program.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2020-02-18-interpreting-gitlabs-devsecops-report.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2020-03-06-personal-update.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2020-03-18-what-is-a-developer-program.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
