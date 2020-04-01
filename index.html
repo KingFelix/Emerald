@@ -11,7 +11,7 @@ layout: default
 
 	  <li class="post">
 
-	  	<h2 {% if post.categories == "personal" %}style="color: #000000" {% endif %} >
+	  	<h2>
 
 			<a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a>
 		</h2>
