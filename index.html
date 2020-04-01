@@ -8,8 +8,9 @@ layout: default
 	{% for post in paginator.posts %}
 
 
-	{% if post.categories == "personal" %}style="background-color: #000000"
+
 	  <li class="post">
+		  {% if post.categories == "personal" %}style="color: #000000"
 	  	<h2>
 			<a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a>
 		</h2>
