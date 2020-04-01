@@ -7,8 +7,15 @@ layout: default
 
 	{% for post in paginator.posts %}
 
+
+	{% if post.categories == "personal" %}style="background-color: #000000"
 	  <li class="post">
-	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
+	  	<h2>
+			<a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a>
+		</h2>
+		  {% endif %}
+
+
 	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
 	  	<p>{{ post.description }}</p>
 	  </li>
