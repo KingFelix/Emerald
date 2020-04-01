@@ -3,6 +3,7 @@ date: 2019-10-16
 author: jw
 title: "Notes from my presentation at the Evans Data dev marketing summit"
 description: "How to build developer communities, and why engagement is everything -notes from my talk at the Evans Data Developer Marketing Summit"
+tags: developer-marketing
 ---
 ![Emerald](img/Zhu_Jinshi_site_art.png "Art by Zhu Jinshi")
 <span class="heroart">A few pieces from one of my favorite artists, <a href="https://www.artsy.net/artist/zhu-jinshi">Zhu Jinshi</a> | <a href="../about#whats-with-the-random-art">What's with the random art?</a></span>

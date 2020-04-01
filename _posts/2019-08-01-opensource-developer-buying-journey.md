@@ -3,6 +3,7 @@ date: 2019-08-01
 author: jw
 title: "Understanding the open source business model - Part 2"
 description: "Part 2 of the developer buying journey. How to use open source projects and communities enable the developer buying process."
+tags: developer-marketing open-source
 ---
 ![Emerald](img/picasso-site-art.png "Art by Davis Camp DeLisi")
 <span class="heroart">A line drawing by Pablo Picasso | <a href="../about#whats-with-the-random-art">What's with the random art?</a>

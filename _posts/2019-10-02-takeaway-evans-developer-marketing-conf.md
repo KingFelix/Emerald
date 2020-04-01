@@ -3,6 +3,7 @@ date: 2019-10-02
 author: jw
 title: "Key insights and takeaways from the Evans Data Dev Marketing Summit"
 description: "I recently had the honor of speaking and attending the Evans Data Developer Marketing Summit, here are some takeaways"
+tags: developer-marketing
 ---
 ![Emerald](img/davis-site-art.png "Art by Davis Camp DeLisi")
 <span class="heroart">A piece my wife and I recently purchased by <a href="https://www.instagram.com/davis_delisi/">Davis Camp DeLisi</a>| <a href="../about#whats-with-the-random-art">What's with the random art?</a></span> 

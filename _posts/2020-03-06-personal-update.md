@@ -3,6 +3,7 @@ date: 2020-03-06
 author: jw
 title: "A personal update"
 description: "2019 was a busy year, a ton has happened since my last update post. Here's what's new."
+tags: personal
 ---
 ![Emerald](img/siteart-ed-moses.png "Art by Mark Rothko")
 <span class="heroart">A few pieces from an icon from the LA art community, <a href="http://www.artnet.com/artists/ed-moses/">Ed Moses</a> | <a href="../about#whats-with-the-random-art">What's with the random art?</a></span>
