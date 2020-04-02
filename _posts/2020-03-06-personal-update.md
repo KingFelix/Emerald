@@ -1,7 +1,7 @@
 ---
 date: 2020-03-06
 author: jw
-title: "A personal update"
+title: "Joining Amazon Web Services (AWS)"
 description: "2019 was a busy year, a ton has happened since my last update post. Here's what's new."
 categories: [work]
 tags: [Personal Update]
