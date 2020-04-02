@@ -4,7 +4,7 @@ author: jw
 title: "Understanding the developer buying process - Part 3"
 description: "The role developers play in an enterprise deal is evolving. How do developers buy the tools they use and do they have BANT?"
 categories: [work]
-tags: [developer marketing]
+tags: [Developer Marketing]
 ---
 ![Emerald](img/picasso_bulls.jpg "Bulls by Pablo Picasso")
 <span class="heroart">Bull by, <a href="https://www.artyfactory.com/art_appreciation/animals_in_art/pablo_picasso.htm">Pablo Picasso</a> | <a href="../about#whats-with-the-random-art">What's with the random art?</a></span>

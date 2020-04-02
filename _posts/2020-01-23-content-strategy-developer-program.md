@@ -4,7 +4,7 @@ author: jw
 title: "Content strategies for developer marketing programs"
 description: "Three content strategies that can be used to drive engagement with developer programs."
 categories: [work]
-tags: [developer marketing]
+tags: [Developer Marketing]
 ---
 ![Emerald](img/banksy-site-art.png "Art by Banksy")
 <span class="heroart">A few pieces from one of my favorite pop artists, <a href="https://www.banksy.co.uk/">Banksy</a> | <a href="../about#whats-with-the-random-art">What's with the random art?</a></span>

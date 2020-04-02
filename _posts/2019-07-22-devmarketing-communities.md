@@ -4,7 +4,7 @@ author: jw
 title: "Everything you need to know about developer communities and how to approach them."
 description: "An overview of the top five developer communities that developer marketing and developer relations teams should leverage."
 categories: [work]
-tags: [developer marketing, open source]
+tags: [Developer Marketing, Open Source]
 ---
 One of the main reasons I’ve been inspired to publish again is the lack of quality developer-focused marketing content. Developer marketing is my bread and butter and when, or maybe I should say if you figure it out, it’s an incredibly enjoyable audience to interact with. That being said, it’s an uphill battle. Developer audiences require you to have a deep understanding of the technologies that matter to them, emerging trends, communication styles, niche interests, and of course the communities where they spend their time. In this post, I want to introduce you to the less-known online developer communities.
 

@@ -4,7 +4,7 @@ author: jw
 title: "Hello world. A much needed update on life, work, and my musings"
 description: "It's been a long time since I updated my blog. I've decided to make some changes and focus my blog on developer marketing, relations, and open source community building. Here's what I've been up to."
 categories: [work, personal]
-tags: [personal]
+tags: [Personal Update]
 ---
 Excuse my cliché title, it's been a while since I've published anything, and to be honest, it has lost its hard-won sense of familiarity. Publishing my personal and professional thoughts is an activity that I enjoy maybe even love. 
 

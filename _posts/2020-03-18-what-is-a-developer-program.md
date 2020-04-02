@@ -4,7 +4,7 @@ author: jw
 title: "What is a developer program and what does it take to build one?"
 description: "Developer programs are a growing part of the enterprise software go-to-market strategy, here's how to build one."
 categories: [work, personal]
-tags: [developer marketing]
+tags: [Developer Marketing, Programs]
 ---
 ![Emerald](img/siteart-joan-miro.png "Art by Joan Miro")
 <span class="heroart">Blue I, II, III, 1961 by <a href="https://www.joan-miro.net/blue.jsp">Joan Miro</a> | <a href="../about#whats-with-the-random-art">What's with the random art?</a></span>
