@@ -1,10 +1,19 @@
-Improve email communication to developer audiences
+---
+date: 2020-05-08
+author: jw
+title: "Improve email communication with developer audiences"
+description: "Why developer marketing programs should rethink marketing automation and how they email their community"
+categories: [work]
+tags: [Developer Marketing and Programs]
+---
+![Emerald](img/picasso-site-art.png "Art by Pablo Picasso")
+<span class="heroart">A line drawing by Pablo Picasso | <a href="../about#whats-with-the-random-art">What's with the random art?</a>
 
-A few weeks ago, Evans Data released a new report that found “I’ll targeted messaging as biggest ‘Pet-Peeve’ in developer marketing.” (read the full release). That shouldn’t come as a big surprise, seeing as most of the marketing email communication sent from vendors isn’t done in a highly-intelligent or intentional way. Some of this can fall on the shoulders of marketers who aren’t technical enough to understand what will be of interest to a developer and some of it might even be the handy work of marketers who are just being lazy. Though this might be true, I don’t think we can blame all of it on miss-guided developer marketing teams. Instead, I think that there is a second culprit, and it goes by the name of ‘automation’.  
+A few weeks ago, Evans Data released a new report that found “I’ll targeted messaging as biggest ‘Pet-Peeve’ in developer marketing.” (<a href="https://evansdata.com/press/viewRelease.php?pressID=281">read the full release</a>). That shouldn’t come as a big surprise, seeing as most of the marketing email communication sent from vendors isn’t done in a highly-intelligent or intentional way. Some of this can fall on the shoulders of marketers who aren’t technical enough to understand what will be of interest to a developer and some of it might even be the handy work of marketers who are just being lazy. Though this might be true, I don’t think we can blame all of it on miss-guided developer marketing teams. Instead, I think that there is a second culprit, and it goes by the name of ‘automation’.  
 
 For years, marketing teams have invested massive amounts into building automated marketing systems that can do the work of entire teams without ever skipping a beat or missing a follow up. Now that we’ve done it, we’re realizing that our marketing utopia is not quite what we wanted. In fact, it’s not what anyone wanted. 
 
-Marketing automation started off with good intentions. The goal was to provide a great customer experience, and in many ways, it has accomplished that. Try to imagine a world without shipping confirmations, password reset emails, RSS feeds, or guided onboarding emails. That convenience has come at a price. The price is our relationship with customers, for anyone reading this blog, that’s a relationship with your developer audience.  
+Marketing automation started off with good intentions. The goal was to provide a great customer experience, and in many ways, it has accomplished that. Try to imagine a world without shipping confirmations, password reset emails, RSS feeds, or guided on boarding emails. That convenience has come at a price. The price is our relationship with customers, for anyone reading this blog, that’s a relationship with your developer audience.  
 
 What’s the solution?
 
