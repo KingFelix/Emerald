@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d96cb130-99f0-4d6d-a052-f310eb2ecdbe" name="Default Changelist" comment="" />
+    <list default="true" id="d96cb130-99f0-4d6d-a052-f310eb2ecdbe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2020-06-09-knowledge-over-features-dev-marketing.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-06-09-knowledge-over-features-dev-marketing.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="51" lean-forward="true" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+              <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#footer#0;n#!!top" expanded="true" />
               </folding>
@@ -22,11 +24,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="12" column="92" lean-forward="true" selection-start-line="12" selection-start-column="92" selection-end-line="12" selection-end-column="92" />
+              <caret line="12" column="92" selection-start-line="12" selection-start-column="92" selection-end-line="12" selection-end-column="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2020-06-09-knowledge-over-features-dev-marketing.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" column="248" selection-start-line="15" selection-start-column="248" selection-end-line="15" selection-end-column="248" />
             </state>
           </provider>
         </entry>
@@ -70,9 +81,9 @@
         <option value="$PROJECT_DIR$/_posts/2019-08-01-opensource-developer-buying-journey.md" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_posts/2020-05-22-creating-virtual-developer-experience.md" />
-        <option value="$PROJECT_DIR$/_posts/2020-06-09-knowledge-over-features-dev-marketing.md" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/_posts/2020-06-09-knowledge-over-features-dev-marketing.md" />
       </list>
     </option>
   </component>
@@ -88,7 +99,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,12 +109,7 @@
             <path>
               <item name="new-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="new-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="new-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="new-blog" type="b2602c69:ProjectViewProjectNode" />
@@ -120,6 +125,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,7 +179,7 @@
     <frame x="1671" y="-109" width="1689" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3011536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3047966" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -421,13 +427,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2020-06-09-knowledge-over-features-dev-marketing" />
-    <entry file="file://$PROJECT_DIR$/_posts/2020-06-09-knowledge-over-features-dev-marketing.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2020-05-22-creating-virtual-developer-experience.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -469,16 +468,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="51" lean-forward="true" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#footer#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -496,10 +485,27 @@
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#footer#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="12" column="92" lean-forward="true" selection-start-line="12" selection-start-column="92" selection-end-line="12" selection-end-column="92" />
+          <caret line="12" column="92" selection-start-line="12" selection-start-column="92" selection-end-line="12" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2020-06-09-knowledge-over-features-dev-marketing.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="248" selection-start-line="15" selection-start-column="248" selection-end-line="15" selection-end-column="248" />
         </state>
       </provider>
     </entry>
