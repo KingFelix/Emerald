@@ -2,9 +2,9 @@
 date: 2020-09-10
 author: jw
 title: "A few thoughts on PMMing dev tools"
-description: "After a few minutes scrolling through StackShare, I was inspired to write down a few tips for all the PMMs out there slinging dev tools. Here's how to make your product standout, how to get a few early adopters, and a few insights into the dev tools space."
-categories: [work, dev tools, marketing]
-tags: [Dev tools]
+description: "After a few minutes scrolling through StackShare, I was inspired to write down a few tips for all the PMMs out there slinging dev tools. Here is how to make your product standout, how to get a few early adopters, and a few insights into the dev tools space."
+categories: [work]
+tags: [PMM]
 ---
 ![Emerald](img/dcstreet-site-art.jpg "DC Street Arto")
 <span class="heroart">A bit of DC street art by, various artists | <a href="../about#whats-with-the-random-art">What's with the random art?</a></span>
