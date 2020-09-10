@@ -2,6 +2,7 @@
 title: A Developer Marketing Blog by Jesse Williams
 description: "A simple blog focused on the complexity of developer marketing, developer relations, building open source communities, and how to take developer focused products to market."
 url: "https://www.jesse-williams.com"
+baseurl: / 
 author:
   name: "Jesse Williams"
   email: "jessewilliams.r@gmail.com"
