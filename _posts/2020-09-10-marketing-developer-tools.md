@@ -6,7 +6,7 @@ description: "After a few minutes scrolling through StackShare, I was inspired t
 categories: [work]
 tags: [PMM]
 ---
-![Emerald](img/dcstreet-site-art.jpg "DC Street Arto")
+![Emerald](img/dcstreet-site-art.jpg "DC Street Art")
 <span class="heroart">A bit of DC street art by, various artists | <a href="../about#whats-with-the-random-art">What's with the random art?</a></span>
 
 
