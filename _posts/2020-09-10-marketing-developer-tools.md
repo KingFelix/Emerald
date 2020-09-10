@@ -4,11 +4,10 @@ author: jw
 title: "A few thoughts on PMMing dev tools"
 description: "After a few minutes scrolling through StackShare, I was inspired to write down a few tips for all the PMMs out there slinging dev tools. Here is how to make your product standout, how to get a few early adopters, and a few insights into the dev tools space."
 categories: [work]
-tags: [PMM]
+tags: [Product Marketing]
 ---
-![Emerald](img/dcstreet-site-art.jpg "DC Street Art")
+![Emerald](img/dcstreet-site-art.png "DC Street Art")
 <span class="heroart">A bit of DC street art by, various artists | <a href="../about#whats-with-the-random-art">What's with the random art?</a></span>
-
 
 This week I spent a few minutes scrolling through StackShare checking out new tools which were recently listed. The list seemed endless, a night and day contrast from when I wrote the listings for Codenvy and Eclipse Che in early 2013. The dev tooling space has exploded in recent years and for someone who focuses on dev tools, it’s an exciting time. 
 
