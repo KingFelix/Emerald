@@ -19,7 +19,7 @@ Jesse Williams has spent his career leading marketing and demand strategies for 
 
 Over the past eight years, he has focused on understanding how to grow and interact with technical audiences to develop highly engaged communities around developer tools and products.
 
-Jesse currently leads the global public sector developer marketing efforts for AWS (Amazon Web Services). Prior to AWS, Jesse led the lifecycle marketing team for Red Hat Developer, a community of over 1.5 million independent software developers. During his tenure at Red Hat Developer, his strategies drove a 490% increase in developer engagement, 70% increase in active users, and 15% increase in YOY program registration. Jesse got his start in developer marketing while leading the marketing efforts for Codenvy and open source Eclipse Che.
+Jesse currently leads DevTools Product Marketing for AWS CDK, IDEs, IDE Toolkits, CI/CD, and GitOps. Prior to AWS, Jesse led the lifecycle marketing team for Red Hat Developer, a community of over 1.5 million independent software developers. During his tenure at Red Hat Developer, his strategies drove a 490% increase in developer engagement, 70% increase in active users, and 15% increase in YOY program registration. Jesse got his start in developer marketing while leading the marketing efforts for Codenvy and open source Eclipse Che.
 
 Jesse resides in Washington D.C. with his wife and three kids. 
 
