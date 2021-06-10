@@ -6,7 +6,7 @@ description: "Jesse Williams, specializes in developer marketing and relations, 
 ## about me
 Welcome, my name is Jesse Williams. 
 
-This is where I house my thoughts on topics that interest me including: Developer Marketing, Open Source, Demand Gen, and anything else that catches my attention. The opinions that you will find in my posts are my own, they do not represent the views of my employer (AWS) and are taken directly from my current views on life, which I expect will change as I grow and experience more. Life is a journey, you can follow mine or ignore it ... trolling is unappreciated.
+This is where I house my thoughts on topics that interest me including product marketing, open sources strategies, developer marketing, and anything else that catches my attention. The opinions that you will find in my posts are my own, they do not represent the views of my employer (AWS) and are taken directly from my current views on life, which I expect will change as I grow and experience more. Life is a journey, you can follow mine or ignore it ... trolling is unappreciated.
 
 All is grace,
 Jesse
@@ -15,13 +15,12 @@ Jesse
 
 
 ## professional bio
-Jesse Williams has spent his career leading marketing and demand strategies for developer-focused technologies, projects, and tools. 
 
-Over the past eight years, he has focused on understanding how to grow and interact with technical audiences to develop highly engaged communities around developer tools and products.
+Jesse Williams specializes in leading product marketing for developer tools. He has a deep understanding of developer workflows, how to position technical products in competitive markets, and how to enable sellers to confidently bring developer solutions to IT decision makers. Jesse currently leads Product Marketing for the AWS DevTools potfolio (CDK, IDEs, IDE Toolkits, SDKs, IaC.) Prior to AWS, Jesse led the lifecycle marketing team for Red Hat Developer, a community of over 1.5 million independent software developers. Jesse got his start in developer marketing while leading the marketing efforts for Codenvy and open source Eclipse Che.
 
-Jesse currently leads DevTools Product Marketing for AWS CDK, IDEs, IDE Toolkits, CI/CD, and GitOps. Prior to AWS, Jesse led the lifecycle marketing team for Red Hat Developer, a community of over 1.5 million independent software developers. During his tenure at Red Hat Developer, his strategies drove a 490% increase in developer engagement, 70% increase in active users, and 15% increase in YOY program registration. Jesse got his start in developer marketing while leading the marketing efforts for Codenvy and open source Eclipse Che.
+Outside of work, he is involved with the Eclipse Cloud Development Tools Working Group, where he hosts Cloud Chats, a Twitch series focused on open source leadership and strategy, and serves as a board advisor for Stanza, an open source log agent that’s part of the CNCF’s OpenTelemetry project. 
 
-Jesse resides in Washington D.C. with his wife and three kids. 
+Jesse resides in Alexandria, VA with his wife and three kids. 
 
 <h4>accomplishments</h4>
 
@@ -30,8 +29,6 @@ Jesse resides in Washington D.C. with his wife and three kids.
 - Head of demand gen and marketing ops for Codenvy <a href="https://techcrunch.com/2017/05/25/red-hat-to-acquire-codenvy-as-part-of-its-growing-container-strategy/">(Acq. Red Hat)</a>
 
 - Lifecycle marketing lead, Red Hat Developer <a href="https://techcrunch.com/2019/07/09/ibm-closes-red-hat-acquisition-for-34-billion/">(Acq. IBM)</a>
-
-- Invitation only member of the <a href="https://www.forbes.com/sites/forbescommunicationscouncil/people/jessewilliams1/#e9fa31b51dc2">Forbes Communication Council</a>
 
 
 <h4>projects</h4>
