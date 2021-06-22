@@ -25,6 +25,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      
+
+# Dnew values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "medetations"
+    values:
+      layout: "medetations"
 
 
 
