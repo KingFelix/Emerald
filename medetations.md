@@ -8,18 +8,18 @@ description: "This is where I house my personal thoughts on faith an spiritualit
 
 <ul id="posts">
 
-	{% for post in paginator.posts %}
+	{% for post in paginator.medetations %}
 
 
 
 	  <li class="post">
           <h4>
-              {{post.tags}}
+              {{medetations.tags}}
           </h4>
 
 	  	<h2>
 
-			<a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a>
+			<a href="{% if site.baseurl == "/" %}{{ medetation.url }}{% else %}{{ medetation.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a>
 		</h2>
 
 	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
