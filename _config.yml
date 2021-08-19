@@ -27,17 +27,6 @@ defaults:
       layout: "post"
       
 
-# Dnew values
-defaults:
-  -
-    scope:
-      path: ""
-      type: "medetations"
-    values:
-      layout: "medetations"
-
-
-
 # Custom variables
 version: "1.2.0"
 

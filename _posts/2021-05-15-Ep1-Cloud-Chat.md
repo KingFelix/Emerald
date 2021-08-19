@@ -2,10 +2,11 @@
 date: 2021-05-15
 author: jw
 title: "Episode 1 of Cloud Chat, Open Source Eclipse Che"
-description: "Open source marketing/community building is demand gen for the enterprise and demand gen for the enterprise is open source marketing/community building."
+description: "Open source marketing and community building is demand gen for the enterprise and demand gen for the enterprise is open source marketing and community building."
 categories: [work]
 tags: [Open Source]
 ---
+
 ![Emerald](img/dcstreet-site-art.png "DC Street Art")
 <span class="heroart">A bit of DC street art by, various artists | <a href="../about#whats-with-the-random-art">What's with the random art?</a></span>
 

@@ -6,6 +6,7 @@ description: "Open source marketing/community building is demand gen for the ent
 categories: [work]
 tags: [Open Source]
 ---
+
 ![Emerald](img/dcstreet-site-art.png "DC Street Art")
 <span class="heroart">A bit of DC street art by, various artists | <a href="../about#whats-with-the-random-art">What's with the random art?</a></span>
 
