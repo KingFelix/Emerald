@@ -3,14 +3,46 @@
 	<meta charset="UTF-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 	<meta name="generator" content="Jekyll">
+	<meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+	<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+	<meta property="og:image" content="{{ site.url }}/thumbs/{{ page.image }}" />
+	<meta property="og:site_name" content="A Developer Marketing Blog">
+	<meta property="article:publisher" content="https://www.facebook.com/jesse.williams2" />
+	<meta property="article:author" content="https://www.facebook.com/jesse.williams2" />
+	<meta property="article:published_time" content="{{ page.date }}" />
+	<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+	<meta name="twitter:card" content="summary_large_image"/>
+	<meta name="twitter:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+	<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+	<meta name="twitter:site" content="@FriendsCallMeJW" />
+	<meta name="twitter:creator" content="@FriendsCallMeJW">
+	<meta name="twitter:card" content="summary">
+	<link rel="canonical" href="{{ page.url | prepend: site.url }}">
 
 	<title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
 	<!-- CSS & fonts -->
 	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | replace: '//', '/' }}">
-	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,400italic%7CSignika:700,300,400,600' rel='stylesheet' type='text/css'>
+	<!--<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900,400italic%7CSignika:700,300,400,600' rel='stylesheet' type='text/css'> -->
+
+	<link href="https://fonts.googleapis.com/css?family=Muli:300,300i,400,400i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
+
+	<link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600,600i,700,700i&display=swap" rel="stylesheet">
 
 	<!-- RSS -->
 	<link href="/atom.xml" type="application/atom+xml" rel="alternate" title="ATOM Feed" />
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-70824555-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-70824555-1');
+	</script>
+	
 
 </head>

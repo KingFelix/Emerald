@@ -1,4 +1,14 @@
-## About
+## About 
+This is where I house my thoughts on topics that interest me including: Startups, Marketing, Technology, Finance & anything else that catches my attention. The opinions that you will find in my posts are my own, they are taken directly from my current views on life, which I expect will change as I grow and experience more. Life is a journey, you can follow mine or ignore it … trolling is unappreciated.
+
+All is grace, Jesse
+
+## Make a PR
+Think you have an article that would be interesting to my audience? Find a typo that you can't get over? I've included a Gitpod link below that makes PRs very easy and some information about how to use my sites Jekyll theme.
+
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/KingFelix/emerald) 
+
+## About the theme
 Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
 
 ![Emerald](/img/Emerald01.png "Emerald")
@@ -50,3 +60,38 @@ Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best 
 
 ## License
 Emerald is released under [MIT License](license.md).
+
+### Styles
+This is a CSS example:
+{% highlight css linenos %}
+
+body {
+  background-color: #fff;
+  }
+
+h1 {
+  color: #ffaa33;
+  font-size: 1.5em;
+  }
+
+{% endhighlight %}
+
+And this is a HTML example, with a linenumber:
+{% highlight html linenos %}
+
+<html>
+  <a href="example.com">Example</a>
+</html>
+
+{% endhighlight %}
+
+Last, a Ruby example:
+{% highlight ruby linenos %}
+
+def hello
+  puts "Hello World!"
+end
+
+{% endhighlight %}
+
+
