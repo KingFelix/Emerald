@@ -32,13 +32,7 @@ version: "1.2.0"
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
 
-whitelist:
-  - jekyll-sitemap
 
 
 # Options
