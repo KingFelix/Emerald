@@ -14,6 +14,7 @@ html, body {
     padding: 0.33334em 0;
     font-size: 1.5em;
     font-weight: 400;
+    font-family; "Manrope", sans-serif;
     @media (min-width: 940px) {
       font-size: 1em;
       font-family; "Manrope", sans-serif;
@@ -252,6 +253,7 @@ footer {
   color: $background-color;
   text-align: center;
   padding: 0.6667em 0;
+  font-family; "Manrope", sans-serif;
 }
 
 #wrap {
