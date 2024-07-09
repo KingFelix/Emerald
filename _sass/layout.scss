@@ -16,6 +16,7 @@ html, body {
     font-weight: 400;
     @media (min-width: 940px) {
       font-size: 1em;
+      font-family; "Manrope", sans-serif;
     }
     &:hover {
       background-color: lighten($main-color, 5%);
@@ -78,6 +79,7 @@ html, body {
     width: 1.5em;
     background-color: lighten($text-color, 35%);
     transition: all 0.3s ease-in;
+    font-family; "Manrope", sans-serif;
   }
   &:before {
     top: -8px;
