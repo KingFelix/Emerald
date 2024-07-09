@@ -1,25 +1,34 @@
 # Site settings
 title: A Developer Marketing Blog by Jesse Williams
-email: email@example.com
 description: "A simple blog focused on the complexity of developer marketing, developer relations, building open source communities, and how to take developer focused products to market."
-baseurl: "jwilliamsr.github.io/new-blog/" # the subpath of your site, e.g. /blog
-url: "http://jwilliamsr.github.io/new-blog" # the base hostname & protocol for your site
+url: "https://jwilliamsr.github.io/new-blog/"
+baseurl: "jwilliamsr.github.io/new-blog/" 
 author:
   name: "Jesse Williams"
   email: "jessewilliams.r@gmail.com"
   url: "https://jwilliamsr.github.io/new-blog/"
 logo: /img/jesse-williams-logo.png
 
-markdown: kramdown
-theme: minima
-
-# Social media settings
-twitter_username: FriendsCallMeJW
-github_username:  jwilliamsr
-
 # Build settings
 markdown: kramdown
-permalink: /:year/:month/:day/:title:output_ext
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 10
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      
+
+# Custom variables
+version: "1.2.0"
 
 # Build settings
 theme: minima
@@ -30,4 +39,11 @@ plugins:
 
 whitelist:
   - jekyll-sitemap
+
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
+
 
