@@ -36,6 +36,7 @@ form input[type="email"] {
   font-size: 1em;
   width: 80%;
   max-width: 300px;
+  border-radius: 7px 0px 0px 7px;
 }
 
 form button {
@@ -45,7 +46,8 @@ form button {
   background: #333;
   border: none;
   cursor: pointer;
-  margin: -6px;
+  margin: -7px;
+  border-radius: 0px 7px 7px 0px;
 }
 
 form button:hover {
