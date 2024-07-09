@@ -4,6 +4,6 @@ This is where I house my thoughts on topics that interest me including: Startups
 All is grace, Jesse
 
 ## Make a PR
-Think you have an article that would be interesting to my audience? Find a typo that you can't get over? I've included a Gitpod link below that makes PRs very easy and some information about how to use my sites Jekyll theme.
+Think you have an article that would be interesting to my audience? Find a typo that you can't get over? I've included a Gitpod link below.
 
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/KingFelix/emerald) 
