@@ -1,12 +1,10 @@
 # Site settings
 title: Excellence at Scale, a blog by Jesse Williams
 description: "A simple blog focused on the complexity operational excellence, with a focus on messaging and positioning."
-url: "https://jwilliamsr.github.io/new-blog/"
-baseurl: "https://jwilliamsr.github.io/new-blog/" 
+url: "http://jwilliamsr.github.io/new-blog"
 author:
   name: "Jesse Williams"
   email: "jessewilliams.r@gmail.com"
-  url: "https://jwilliamsr.github.io/new-blog/"
 logo: /img/jesse-williams-logo.png
 
 # Build settings
