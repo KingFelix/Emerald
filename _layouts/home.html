@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+</head>
+<body>
+  <header>
+    <h1><a href="{{ site.baseurl | prepend: site.url }}">{{ site.title }}</a></h1>
+    <h2>THE GREATEST BLOG ON THE MOTHER FU**ING PLANET</h2>
+  </header>
+  <main>
+    <section class="recent-essays">
+      <h2>Recent Essays</h2>
+      <ul>
+        {% for post in site.posts limit:5 %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date_to_string }}
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+    <section class="popular-essays">
+      <h2>Popular Essays</h2>
+      <ul>
+        {% assign popular_posts = site.popular | default: site.posts %}
+        {% for post in popular_posts limit:5 %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+    <section class="subscribe">
+      <h2>Join my Email List</h2>
+      <p>Join 109,050 entrepreneurs on my email list. It's good, I swear.</p>
+      <form action="https://example.com/subscribe" method="POST">
+        <input type="email" name="email" placeholder="Enter your email">
+        <button type="submit">Subscribe</button>
+      </form>
+    </section>
+  </main>
+  <footer>
+    <p>©2024 Jesse Williams</p>
+    <p>Follow me on <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a></p>
+    <p>Made by <a href="https://www.awsm.studio">Awesome Studio</a></p>
+  </footer>
+</body>
+</html>
