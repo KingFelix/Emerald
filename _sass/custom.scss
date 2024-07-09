@@ -31,19 +31,21 @@ form {
 }
 
 form input[type="email"] {
-  padding: 10px;
+  padding: 11px;
   margin: 10px 0;
   font-size: 1em;
   width: 80%;
   max-width: 300px;
   border-radius: 7px 0px 0px 7px;
+  border-color: black;
+    border-width: thin;
 }
 
 form button {
   padding: 12px 20px;
   font-size: 1em;
   color: #fff;
-  background: #333;
+  background: #FFC700;
   border: none;
   cursor: pointer;
   margin: -7px;
