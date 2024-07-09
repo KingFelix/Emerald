@@ -117,8 +117,8 @@ html, body {
 }
 
 #container {
-	margin:0 auto;
-	max-width: 730px;
+	margin:0 4% 0 4%;
+	max-width: 800px;
 	padding: 0 1.5rem;
 }
 
@@ -177,7 +177,7 @@ html, body {
     display: block;
     color: lighten($text-color, 25%);
     line-height: 1.3334em; /* 24px/18px */
-    margin-bottom: 1.3334em; /* 24px/18px */
+    margin-bottom: -0.6666em; /* 24px/18px */
     font-weight: 200;
   }
 }
