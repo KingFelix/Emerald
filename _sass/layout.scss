@@ -14,10 +14,10 @@ html, body {
     padding: 0.33334em 0;
     font-size: 1.5em;
     font-weight: 400;
-    font-family; "Manrope", sans-serif;
+    font-family: "Manrope", sans-serif;
     @media (min-width: 940px) {
       font-size: 1em;
-      font-family; "Manrope", sans-serif;
+      font-family: "Manrope", sans-serif;
     }
     &:hover {
       background-color: lighten($main-color, 5%);
@@ -80,7 +80,7 @@ html, body {
     width: 1.5em;
     background-color: lighten($text-color, 35%);
     transition: all 0.3s ease-in;
-    font-family; "Manrope", sans-serif;
+    font-family: "Manrope", sans-serif;
   }
   &:before {
     top: -8px;
@@ -253,7 +253,7 @@ footer {
   color: $background-color;
   text-align: center;
   padding: 0.6667em 0;
-  font-family; "Manrope", sans-serif;
+  font-family: "Manrope", sans-serif;
 }
 
 #wrap {
