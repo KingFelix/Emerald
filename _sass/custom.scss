@@ -3,7 +3,33 @@
 // -- Put custom style under this point -- //
 
 
-
+#mc_embed_signup div.mce_inline_error {
+margin: 0px;
+padding: 0px;
+background-color: transparent;
+font-weight: 400;
+font-size: 13px;
+z-index: 999;
+color: red;
+}
+#mce-error-response{
+margin: 0px;
+padding: 0px;
+background-color: transparent;
+font-weight: 400;
+font-size: 13px;
+z-index: 999;
+color: red;
+}
+#mce-success-response{
+margin: 0px;
+padding: 0px;
+background-color: transparent;
+font-weight: 400;
+font-size: 13px;
+z-index: 999;
+color: green;
+}
 
  #posts li {
 	padding: 2rem;
