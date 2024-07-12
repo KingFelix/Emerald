@@ -68,7 +68,7 @@ form input[type="email"] {
     font-family:"Manrope", sans-serif;
 }
 
-form button {
+form .subscribe-button {
   padding: 13px 20px 12px 20px;
   font-size: 1em;
   color: #fff;
@@ -79,7 +79,7 @@ form button {
   border-radius: 0px 7px 7px 0px;
 }
 
-form button:hover {
+form .subscribe-button:hover {
   background: #555;
 }
 
