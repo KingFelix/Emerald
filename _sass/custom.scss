@@ -21,14 +21,15 @@ font-size: 13px;
 z-index: 999;
 color: red;
 }
-#mce-success-response{
-margin: 0px;
-padding: 0px;
-background-color: transparent;
-font-weight: 400;
-font-size: 13px;
-z-index: 999;
-color: green;
+#mce-success-response {
+    margin: 0px;
+    padding: 0px;
+    background-color: transparent;
+    font-weight: 600;
+    font-size: 15px;
+    z-index: 999;
+    color: #626262;
+    font-family: "Manrope", sans-serif;
 }
 
  #posts li {
