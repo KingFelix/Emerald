@@ -4,13 +4,14 @@
 
 
 #mc_embed_signup div.mce_inline_error {
-margin: 0px;
-padding: 0px;
-background-color: transparent;
-font-weight: 400;
-font-size: 13px;
-z-index: 999;
-color: red;
+    margin: 0px !important;
+    padding: 0px !important;
+    background-color: transparent !important;
+    font-weight: 400;
+    font-size: 13px;
+    z-index: 999;
+    color: red !important;
+    font-family: "Manrope", sans-serif;
 }
 #mce-error-response{
 margin: 0px;
